@@ -22,6 +22,7 @@ body{
     text-align: center;
 }
 button{
+    cursor: pointer;
     background-color: #e7c8be  ;
     border: none;
     padding: 1rem 2rem;
